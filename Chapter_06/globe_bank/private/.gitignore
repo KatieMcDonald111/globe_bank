@@ -1,0 +1,16 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6E01-5527
+
+ Directory of c:\xampp\htdocs\web182\globe_bank\Chapter_06\globe_bank\private
+
+03/23/2021  05:20 PM    <DIR>          .
+03/23/2021  05:20 PM    <DIR>          ..
+03/23/2021  05:20 PM                 0 .gitignore
+03/07/2021  11:41 AM               662 database.php
+03/07/2021  11:41 AM               145 db_credentials.php
+03/07/2021  11:41 AM               817 functions.php
+03/07/2021  11:41 AM             1,005 initialize.php
+03/07/2021  11:41 AM               465 query_functions.php
+03/19/2021  03:21 PM    <DIR>          shared
+               6 File(s)          3,094 bytes
+               3 Dir(s)  428,650,467,328 bytes free
