@@ -21,4 +21,4 @@ CREATE TABLE `subjects` (
   PRIMARY KEY (`id`)
 );
 
-INSERT INTO `subjects` VALUES (1,'About Globe Bank',1,1),(2,'Consumer',2,1),(3,'Small Business',3,0);
+INSERT INTO `subjects` VALUES (1,'About Globe Bank',1,1),(2,'Consumer',2,1),(3,'Small Business',3,0),(5,'Commercial',4,1);
